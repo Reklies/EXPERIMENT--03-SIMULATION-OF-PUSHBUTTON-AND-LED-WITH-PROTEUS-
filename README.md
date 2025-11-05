@@ -70,6 +70,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 #include<stdbool.h>
 
@@ -157,8 +158,7 @@ void Error_Handler(void)
   {
   }
 }
-
-
+```
 ## Output screen shots of proteus  :
 
 <img width="1116" height="785" alt="Screenshot 2025-09-04 092011" src="https://github.com/user-attachments/assets/5fac0064-6126-4f12-8954-91ad973eb857" />
